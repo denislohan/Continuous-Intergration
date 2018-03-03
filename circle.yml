@@ -8,8 +8,8 @@ machine:
 checkout:
    post:
    # Sometimes git might ask for your identity and block the build. Add one valid account here:
-    - git config user.email "arminm89@gmail.com" 
-    - git config user.name "Armin Mahmoudi"
+    - git config user.email "kidemana@gmail.com" 
+    - git config user.name "Vipviplohan1 "
 
 # install dependencies
 dependencies:
